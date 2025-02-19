@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2025 Classes.md",
+                "file": "Test Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring 2025 Classes"
+              "title": "Test Note"
             }
           }
         ],
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 2025 Classes.md",
+                "file": "Test Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Spring 2025 Classes"
+              "title": "Outline of Test Note"
             }
           }
         ],
@@ -183,6 +183,7 @@
   },
   "active": "3ff4c84891704da4",
   "lastOpenFiles": [
+    "Spring 2025 Classes.md",
     "autoBackup.sh",
     "Test Note.md",
     "College Notes/SOCY101/3 Sociologists Studying the Social World.md",
@@ -199,7 +200,6 @@
     "College Notes/CS491/6 Measurement Levels.md",
     "College Notes/CS491/5 Quantum Instructions.md",
     "College Notes/SOCY 101.md",
-    "Spring 2025 Classes.md",
     "College Notes/CS441/subnote/Loop Invariant Example.md",
     "College Notes/CS441/4 Analysis of Recursive Algorithms.md",
     "College Notes/CS441/3 Time Complexity.md",
@@ -227,7 +227,6 @@
     "College Notes/CS411/subnote",
     "College Notes/SOCY101",
     "College Notes/CS441",
-    "College Notes/CS421",
-    "College Notes/CS411"
+    "College Notes/CS421"
   ]
 }
