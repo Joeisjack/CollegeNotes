@@ -1,3 +1,3 @@
 # Sei Shortcuts:
 Push Repo: Ctrl + Shift + S
-Pull Repo: 
+Pull Repo: Ctrl + Shift + C
