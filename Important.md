@@ -1,0 +1,1 @@
+The shortcut on Sei to save the repo is Ctrl + Shift + S

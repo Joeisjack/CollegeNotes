@@ -1,8 +1,3 @@
-Homework -
-# Urgent
-- [x] SOCY101 HW DODOODO
-- [x] CS 441 HW DODOODO
-
 # Would be cool to do
 - [ ] CS 421 QUIZ REVIEW DODOODO
 - [ ] Prepare for 441 quiz on chapter 1+2
@@ -10,7 +5,6 @@ Homework -
 - [ ] CS 411 QUIZ REVIEW + HW
 
 # Do at some point
-- [ ] Quantum HW - Part 2
+- [ ] Quantum HW - #2 Due Friday
 - [ ] Quantum HW - Read chapter 2 of book
 - [ ] Look at 421 HW at some point :P
-- [ ] 

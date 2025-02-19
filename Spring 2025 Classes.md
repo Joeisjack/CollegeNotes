@@ -1,4 +1,4 @@
-In order
+![[Class Schedule.png]]
 
 [[CS 491 Quantum Computing]]
 
@@ -9,5 +9,3 @@ In order
 [[CS 421 Operating Systems]]
 
 [[CS 411 Computer Architecture]]
-
-Ctrl + Shift + S to save Notes
