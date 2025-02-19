@@ -1,1 +1,3 @@
-The shortcut on Sei to save the repo is Ctrl + Shift + S
+# Sei Shortcuts:
+Push Repo: Ctrl + Shift + S
+Pull Repo: 
