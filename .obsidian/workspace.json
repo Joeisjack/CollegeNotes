@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Spring 2025 Classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Spring 2025 Classes"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md",
+                "file": "Spring 2025 Classes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TODO"
+              "title": "Outline of Spring 2025 Classes"
             }
           }
         ],
@@ -168,6 +168,7 @@
   },
   "active": "7e76a283b7344dbb",
   "lastOpenFiles": [
+    "TODO.md",
     "Test Note.md",
     "Spring 2025 Classes.md",
     "autoBackup.sh",
@@ -175,7 +176,6 @@
     "College Notes/SOCY101/2 Sociology as a Discipline.md",
     "College Notes/SOCY101/1 In-Class Exercise.md",
     "College Notes/CS411/4 Instructions Set.md",
-    "TODO.md",
     "College Notes/CS421/5 Exam Review.md",
     "College Notes/CS 421 Operating Systems.md",
     "College Notes/CS441/6 Brute Force Algorithms.md",

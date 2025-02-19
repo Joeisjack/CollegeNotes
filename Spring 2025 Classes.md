@@ -9,3 +9,5 @@ In order
 [[CS 421 Operating Systems]]
 
 [[CS 411 Computer Architecture]]
+
+Ctrl + Shift + S to save Notes
