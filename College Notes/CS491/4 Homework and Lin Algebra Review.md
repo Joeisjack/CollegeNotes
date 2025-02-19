@@ -1,0 +1,1 @@
+We just reviewed linear algebra and the homework lol

@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "a5933bd12d916302",
+    "type": "split",
+    "children": [
+      {
+        "id": "016d3dd761ab0776",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e76a283b7344dbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College Notes/SOCY101/3 Sociologists Studying the Social World.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 Sociologists Studying the Social World"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66fe435609508c23",
+    "type": "split",
+    "children": [
+      {
+        "id": "644fff332fa3a09c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82fbf1e38ffcb24e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "330caaab07591754",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "86b45e4f59e9f5df",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "820f9b664b5aa435",
+    "type": "split",
+    "children": [
+      {
+        "id": "d45ca60e4e8c6a20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43be31950089b708",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Introduction 01292025.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Introduction 01292025"
+            }
+          },
+          {
+            "id": "aa41a754f2ab4c3c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Introduction 01292025.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Introduction 01292025"
+            }
+          },
+          {
+            "id": "96a5b5b7a358c20d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6de715ea064491cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "College Notes/SOCY101/3 Sociologists Studying the Social World.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 3 Sociologists Studying the Social World"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7e76a283b7344dbb",
+  "lastOpenFiles": [
+    "College Notes/SOCY101/2 Sociology as a Discipline.md",
+    "College Notes/SOCY101/1 In-Class Exercise.md",
+    "College Notes/CS411/4 Instructions Set.md",
+    "TODO.md",
+    "College Notes/CS421/5 Exam Review.md",
+    "College Notes/CS 421 Operating Systems.md",
+    "College Notes/CS441/6 Brute Force Algorithms.md",
+    "College Notes/CS441/5 Loop Invariants.md",
+    "College Notes/CS 441 Algorithms.md",
+    "College Notes/CS 491 Quantum Computing.md",
+    "College Notes/CS491/6 Measurement Levels.md",
+    "College Notes/CS491/5 Quantum Instructions.md",
+    "College Notes/SOCY101/3 Sociologists Studying the Social World.md",
+    "College Notes/SOCY 101.md",
+    "Spring 2025 Classes.md",
+    "College Notes/CS441/subnote/Loop Invariant Example.md",
+    "College Notes/CS441/4 Analysis of Recursive Algorithms.md",
+    "College Notes/CS441/3 Time Complexity.md",
+    "College Notes/CS491/subnote/Magnitude Equation.png",
+    "College Notes/CS491/subnote/Computational Basis.png",
+    "College Notes/CS491/subnote/Unit Length Equation.png",
+    "College Notes/CS491/subnote/Numerical Comp VS Symbolic Comp.md",
+    "College Notes/CS491/subnote/Symbolic Comp.png",
+    "College Notes/CS491/subnote/Numerical Comp 2.png",
+    "College Notes/CS491/subnote/Numerical Comp 1.png",
+    "College Notes/CS411/subnote/RISC-V Registers.md",
+    "College Notes/CS411/3 Computer Abstractions and Technology Part 3.md",
+    "College Notes/CS411/2 Computer Abstractions and Technology Part 2.md",
+    "College Notes/CS411/1 Computer Abstractions and Technology.md",
+    "College Notes/CS421/4 CPU Scheduling.md",
+    "College Notes/CS441/subnote/Tower of Hanoi Puzzle.md",
+    "College Notes/CS441/1 Time Efficiency.md",
+    "College Notes/CS441/subnote/Tower of Hanoi Drawing.png",
+    "College Notes/CS441/subnote/Matrix Multiplication.png",
+    "College Notes/CS491/subnote/Complex Sphere.png",
+    "College Notes/CS491/subnote",
+    "College Notes/CS491",
+    "Untitled.canvas",
+    "College Notes/CS441/subnote",
+    "College Notes/CS421/subnote",
+    "College Notes/SOCY101/subnote",
+    "College Notes/CS411/subnote",
+    "College Notes/SOCY101",
+    "College Notes/CS441",
+    "College Notes/CS421",
+    "College Notes/CS411"
+  ]
+}
