@@ -10,3 +10,5 @@
 [[5 Quantum Instructions]]
 
 [[6 Measurement Levels]]
+
+[[7 Measurement]]

@@ -1,13 +1,13 @@
 # Ch 1 Basics / Introduction
-- [ ] Exceptions, Traps, Interrupts
-- [ ] Memory mapping
-- [ ] User space
-- [ ] Kernel Space
-- [ ] Virtualization
-- [ ] Emulation
+- [x] Exceptions, Traps, Interrupts
+- [x] Memory mapping
+- [x] User space
+- [x] Kernel Space
+- [x] Virtualization
+- [x] Emulation
 # Ch 2 OS Structures
-- [ ] System calls (syscalls)
-- [ ] OS Services
+- [x] System calls (syscalls)
+- [x] OS Services
 - [ ] ***Common C functions (memcpy, strlen, strstr, strtok, strcpy, etc.)***
 # Ch 3 Processes
 - [ ] What is a process
