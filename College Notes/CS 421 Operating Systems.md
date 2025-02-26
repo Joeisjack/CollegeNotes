@@ -1,5 +1,5 @@
 
-[[1 Introduction]]
+[[College Notes/CS421/1 Introduction]]
 
 [[2 Operating System Structures]]
 

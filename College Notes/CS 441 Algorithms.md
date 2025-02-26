@@ -10,3 +10,5 @@
 [[5 Loop Invariants]]
 
 [[6 Brute Force Algorithms]]
+
+[[7 Decrease & Conquer]]

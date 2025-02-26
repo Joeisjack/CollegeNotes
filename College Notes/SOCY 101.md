@@ -5,7 +5,7 @@ Ariana
 Gage
 Nikolai (Niko)
 
-[[1 In-Class Exercise]]
+[[College Notes/SOCY101/1 Introduction]]
 
 [[2 Sociology as a Discipline]]
 
