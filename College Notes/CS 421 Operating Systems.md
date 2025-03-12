@@ -8,3 +8,5 @@
 [[4 CPU Scheduling]]
 
 [[5 Exam Review]]
+
+[[6 Synchronization Examples]]

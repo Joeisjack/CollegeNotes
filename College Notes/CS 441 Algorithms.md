@@ -12,3 +12,5 @@
 [[6 Brute Force Algorithms]]
 
 [[7 Decrease & Conquer]]
+
+[[8 Divide & Conquer]]

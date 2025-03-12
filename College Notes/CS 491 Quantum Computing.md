@@ -16,3 +16,9 @@
 [[8 Everything so far]]
 
 [[9 Tricks]]
+
+[[10 Quantum Algorithm]]
+
+[[11 Uncertainty]]
+
+[[12 Quiz Review]]

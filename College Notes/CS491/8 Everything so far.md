@@ -32,6 +32,8 @@ $\Omega$ -> Hermition ops
 x, y, z -> Pauli spin ops
 $\begin{pmatrix}0 & 1 \\ 1 & 0 \end{pmatrix}, \begin{pmatrix}0 & i \\ -i & 0 \end{pmatrix}, \begin{pmatrix}1 & 0 \\ 0 & -1 \end{pmatrix}$
 
+[[Gates]]
+
 Measurement Level 1:
 $\ket\psi = a\ket0 + b\ket1 \rightarrow$ measured w.r.t $\ket0, \ket1$ -> $P_0 = \left|a\right|^2$ and $P_1=\left|b\right|^2$
 

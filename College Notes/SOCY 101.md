@@ -13,3 +13,6 @@ Nikolai (Niko)
 
 [[4 Studying Culture and Society]]
 
+[[5 Socialization]]
+
+[[6 Stratification and Inequality]]
