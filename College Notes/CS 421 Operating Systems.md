@@ -10,3 +10,5 @@
 [[5 Exam Review]]
 
 [[6 Synchronization Examples]]
+
+[[7 Main Memory]]

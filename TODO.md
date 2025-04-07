@@ -1,5 +1,9 @@
 # DODOODO
-- [ ] Prepare for 441 HW
+- [ ] 
 
 # Do at some point
-- [ ] CS 421 HW + QUIZ MONDAY
+- [x] Peer Review SOCY101
+- [ ] Zybook HW CMSC421
+- [ ] Study for 421 midterm
+- [ ] 421 Project
+- [ ] Set classes next sem

@@ -7,7 +7,7 @@ The other where you don't know the outcome after it happens (hidden result)
 $P$ represents a pure state if and only if $P^2=P$ and if and only if $Tr\left(P^2\right)=1$
 
 ## Properties of Density Operators
-1. $P$ is Hermitian, i.e., $P^{\dag}=P$
+1. $P$ is Hermitian, i.e., $P^{\dagger}=P$
 2. $Tr\left(P\right)=1$
 3. $P$ is positive semi-definite
 	Above means all eigenvalues are $\ge0$

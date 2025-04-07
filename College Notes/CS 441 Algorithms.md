@@ -14,3 +14,9 @@
 [[7 Decrease & Conquer]]
 
 [[8 Divide & Conquer]]
+
+[[9 Parted]]
+
+[[10 Transform & Conquer (& Spacetime tradeoff)]]
+
+[[11 Dynamic Programming]]

@@ -16,3 +16,5 @@ Nikolai (Niko)
 [[5 Socialization]]
 
 [[6 Stratification and Inequality]]
+
+[[7 Culminating Project Pitch]]

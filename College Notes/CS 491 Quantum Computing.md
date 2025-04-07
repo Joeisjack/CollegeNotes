@@ -22,3 +22,11 @@
 [[11 Uncertainty]]
 
 [[12 Quiz Review]]
+
+[[13 Entanglement]]
+
+[[14 Grover's Algorithm]]
+
+[[15 Simon's Algorithm]]
+
+[[16 Shor's Algorithm]]

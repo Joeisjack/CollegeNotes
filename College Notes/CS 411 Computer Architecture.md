@@ -9,4 +9,4 @@
 
 [[5 Memory Operands]]
 
-[[6 p]]
+[[6 Project Notes]]
